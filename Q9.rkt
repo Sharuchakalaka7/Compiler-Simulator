@@ -2,7 +2,9 @@
 
 (provide compile-simpl)
 
-;; Question Q9
+;; SIMPL := Simple IMperative Programming Language ; basic C-like language
+;; A-PRIMPL := (Matching name for the corresponding assembly language name for SIMPL) ; Donald Knuth's MMIX-like assembly language
+
 ;; Compiler for converting SIMPL to A-PRIMPL
 ;; Author: Ahmed Shahriar
 
