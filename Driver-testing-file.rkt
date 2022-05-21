@@ -1,11 +1,11 @@
 #lang racket
 
-(require "SIMPLsimulator.rkt")
-(require "PRIMPLsimulator.rkt")
-(require "Q9.rkt")
-(require "Q8.rkt")
+(require "SIMPLsimulator.rkt")    ;; Simulator programming language file provided by the instructors
+(require "PRIMPLsimulator.rkt")   ;; Simulator machine language file provided by the instructors
+(require "Compiler.rkt")
+(require "Assembler.rkt")   ;; Assembler file - not included in this repo yet
 
-;;; Driver file for Question Q9
+;;; Driver file
 
 
 
